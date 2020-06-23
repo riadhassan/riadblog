@@ -1,4 +1,4 @@
-baseurl = "https://flamboyant-nightingale-c63ef3.netlify.app/"
+baseurl = "//testn.riadhassan.com"
 title = "Riad"
 
 theme = "hugo-coder"
